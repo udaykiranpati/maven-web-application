@@ -1,0 +1,24 @@
+node 
+{
+    
+def mavenHome = tool name: "Maven3.6.3"
+jdk = tool name: "java-openjdk_1.8.221"
+env.JAVA_HOME = "${jdk}"
+stage('clonecode')
+{
+git branch: 'development', credentialsId: '12b21946-836a-4464-bbc9-0ab156665d0c', url: 'https://github.com/udaykiranpati/maven-web-application.git'
+}
+
+stage('build')
+{
+sh "${mavenHome}/bin/mvn clean package"
+}
+stage('sonarqubereport')
+{
+    sh "${mavenHome}/bin/mvn sonar:sonar"
+}
+stage('uploadartifactory')
+{
+    sh "${mavenHome}/bin/mvn clean deploy"
+}
+}
