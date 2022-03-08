@@ -20,7 +20,12 @@ stage('UploadToNexus')
 {
     sh "${Maven_Home}/bin/mvn deploy"
 }
-
+    stage('DeployToTomcat')
+{
+        sshagent(['85f5a821-aded-41ae-b0d5-869d03f3a96c']) {
+    sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.145.181.247:/opt/apache-tomcat-9.0.59/webapps"
+}
+}
 stage('SendMail')
 {
 mail bcc: '', body: '''Build done
