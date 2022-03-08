@@ -26,11 +26,5 @@ stage('UploadToNexus')
     sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.145.181.247:/opt/apache-tomcat-9.0.59/webapps"
 }
 }
-stage('SendMail')
-{
-mail bcc: '', body: '''Build done
 
-Regards,
-Uday.''', cc: '', from: '', replyTo: '', subject: 'Build Over', to: 'uday.pati02@gmail.com'    
-}
 }
