@@ -24,5 +24,15 @@
 		<img src="images/uday.jpeg" alt="" width="200">
 	</span>
 	</div>
+<div style="text-align: left;">
+	<span>
+		<img src="images/rac.jpeg" alt="" width="200">
+	</span>
+	</div>
+<div style="text-align: center;">
+	<span>
+		<img src="images/racday.jpeg" alt="" width="200">
+	</span>
+	</div>
 </body>
 </html>
