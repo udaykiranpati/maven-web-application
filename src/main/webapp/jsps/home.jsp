@@ -11,20 +11,12 @@
 <body>
 <h1 align="center">Welcome to Uday & Rachita's Wedding</h1>
 <h1 align="center">The honor of your presence is requested at the marriage of</h1>
-<hr>
 <h1 align="center">Uday Kiran</h1>
-<hr>
 <h1 align="center">and</h1>
-<hr>
 <h1 align="center">Rachita Taneja</h1>
-<hr>
 <h1 align="center">Saturday, the eleventh of June</h1>
-<hr>
 <h1 align="center">Two thousand and twenty two</h1>
-<hr>
 <h1 align="center">At eight o’clock in the night</h1>
-<hr>
-<hr>
 <h1 align="center">Reception to follow</h1>
 <hr>
 <div style="text-align: center;">
