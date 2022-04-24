@@ -29,24 +29,8 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/uday.jpeg" alt="" width="100">
 	</span>
-	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
-		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
-	</span>
-</div>
-<hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
-<hr>
-<hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
-
+	</div>
 </body>
 </html>
