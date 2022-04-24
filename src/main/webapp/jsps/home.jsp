@@ -19,20 +19,17 @@
 <h1 align="center">At eight o’clock in the night</h1>
 <h1 align="center">Reception to follow</h1>
 <hr>
-<div style="text-align: right;">
+<div style="text-align: center;">
 	<span>
 		<img src="images/uday.jpeg" alt="" width="200">
 	</span>
-	</div>
-<div style="text-align: left;">
 	<span>
 		<img src="images/rac.jpeg" alt="" width="200">
 	</span>
-	</div>
-<div style="text-align: center;">
 	<span>
 		<img src="images/racday.jpeg" alt="" width="200">
 	</span>
 	</div>
+
 </body>
 </html>
