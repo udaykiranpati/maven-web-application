@@ -19,9 +19,9 @@
 <h1 align="center">At eight o’clock in the night</h1>
 <h1 align="center">Reception to follow</h1>
 <hr>
-<div style="text-align: center;">
+<div style="text-align: right;">
 	<span>
-		<img src="images/uday.jpeg" alt="" width="100">
+		<img src="images/uday.jpeg" alt="" width="200">
 	</span>
 	</div>
 </body>
