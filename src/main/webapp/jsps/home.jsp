@@ -9,27 +9,14 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Uday & Rachita's Wedding</h1>
-<h1 align="center">The honor of your presence is requested at the marriage of</h1>
-<h1 align="center">Uday Kiran</h1>
-<h1 align="center">and</h1>
-<h1 align="center">Rachita Taneja</h1>
-<h1 align="center">Saturday, the eleventh of June</h1>
-<h1 align="center">Two thousand and twenty two</h1>
-<h1 align="center">At eight o’clock in the night</h1>
-<h1 align="center">Reception to follow</h1>
-<hr>
+<h1 align="center">Welocme to My Guitar Concert</h1>
 <div style="text-align: center;">
-	<span>
-		<img src="images/uday.jpeg" alt="" width="200">
-	</span>
-	<span>
-		<img src="images/rac.jpeg" alt="" width="200">
-	</span>
-	<span>
-		<img src="images/racday.jpeg" alt="" width="200">
-	</span>
-	</div>
-
+<span>
+<img src="images/sairam.jpeg" alt="" width="300">
+</span>
+</div>
+<h1 align="right">Regards</h1>
+<h1 align="right">Sai Ram</h1>
+<hr>
 </body>
 </html>
